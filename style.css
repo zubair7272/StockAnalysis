@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color:white ;
+}
+h1{
+    text-align: center;
+}
+div #tradingview_08f5d{
+    height: 500px;
+    width: 500px;
+    
+
+}
+.tradingview-widget-container div#tradingview_08f5d{
+    display: inline-block;
+    margin-left: 1138px;
+    margin-top: 19px;
+    border: 2px solid red;
+
+}
